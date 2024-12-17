@@ -1,0 +1,29 @@
+_repo: Noarderljocht-b-histoaryske-forbylding-yn-twa-utkomsten-yn-fersen_74794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kalma, Douwe
+    birthdate: 1896
+    deathdate: 1953
+    gutenberg_agent_id: '43803'
+    url: http://www.gutenberg.org/2009/agents/43803
+    wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
+description: ''
+gutenberg_issued: '2024-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74794'
+language: fy
+pgterms:marc905: 20241116121305kalma
+pgterms:marc906: '1921'
+pgterms:marc907: nl
+publication_note: '  $aBolsward :$bA.J. Osinga, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frisian drama'
+- !lcc 'PF'
+- GITenberg
+title: 'Noarderljocht : $b histoaryske forbylding yn twa útkomsten, yn fersen'
+url: http://www.gutenberg.org/ebooks/74794
