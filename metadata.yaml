@@ -1,5 +1,8 @@
 _repo: Noarderljocht-b-histoaryske-forbylding-yn-twa-utkomsten-yn-fersen_74794
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74794-h/images/cover.jpg
 creator:
   author:
     agent_name: Kalma, Douwe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43803
     wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74794#Noarderljocht-b-histoaryske-forbylding-yn-twa-utkomsten-yn-fersen
 gutenberg_issued: '2024-11-25'
 gutenberg_type: Text
 identifiers:
